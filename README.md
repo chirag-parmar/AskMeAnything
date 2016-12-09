@@ -1,13 +1,15 @@
-# AskMeAnything AR Encylopedia
-made at Next Tech Lab,SRM 2016  
+# AskMeAnything Augmented Reality Encylopedia
+  
+A unity based application that converts a encyclopedia to a Augmented Reality one. Helping children understand the world with whole new dimension. It uses vuforia package with unity to enable Augmented Reality. Image targets are included in the as a unitypackage file, but if new image targets are to be added then personalized unitypackage file must be downloaded with image targets uploaded to vuforia's database.   
 
-A unity based application that converts a encyclopedia to a Augmented Reality one. Helping children understand the world with whole new dimension.  
+Please unzip the contents of the folders mentioned below at the location they are placed in and remember to
+download the assets zip from the goole drive link provided in .assetsdownload file.
 
-please unzip the contents of these folders at the location they are placed in.  
-download the assets zip from the goole drive link provided in .assetsdownload file
-filename            location  
-metdata.zip         Library/metadata/  
-Assets.zip          AskMeAnything/Assets  
 
-the previous builds and shader cache are not included in the repository  
+|Filename             |Location				 |
+|---------------------|----------------------|
+|metdata.zip          |Library/metadata/	 |
+|Assets.zip           |AskMeAnything/Assets  |
+
+The previous builds and shader cache are not included in the repository
 
